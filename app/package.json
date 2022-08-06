@@ -1,0 +1,18 @@
+{
+  "name": "toffa-bot-2",
+  "version": "1.0.0",
+  "description": "телеграм бот с парой функций",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegrambot"
+  ],
+  "author": "ToffaKrtek",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0"
+  },
+  "type": "module"
+}
